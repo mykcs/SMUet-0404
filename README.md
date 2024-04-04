@@ -2,7 +2,17 @@
 
 dataset https://www.kaggle.com/datasets/liaoguoying/rawniidataset
 
-run02 gpu 界面运行
+# run 记录
+
+run01 
+
+kaggle web运行。
+
+sweep最后一点没有运行完整。
+
+run02 
+
+gpu 界面运行
 
 run03 blue 界面运行
 
