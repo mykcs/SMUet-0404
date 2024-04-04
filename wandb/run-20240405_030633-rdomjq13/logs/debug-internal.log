@@ -1606,3 +1606,9 @@
 2024-04-05 04:12:24,202 DEBUG   SenderThread:65949 [sender.py:send_request():406] send_request: stop_status
 2024-04-05 04:12:24,244 DEBUG   HandlerThread:65949 [handler.py:handle_request():146] handle_request: internal_messages
 2024-04-05 04:12:26,574 DEBUG   HandlerThread:65949 [handler.py:handle_request():146] handle_request: status_report
+2024-04-05 04:12:31,586 DEBUG   HandlerThread:65949 [handler.py:handle_request():146] handle_request: status_report
+2024-04-05 04:12:36,605 DEBUG   HandlerThread:65949 [handler.py:handle_request():146] handle_request: status_report
+2024-04-05 04:12:39,206 DEBUG   HandlerThread:65949 [handler.py:handle_request():146] handle_request: stop_status
+2024-04-05 04:12:39,207 DEBUG   SenderThread:65949 [sender.py:send_request():406] send_request: stop_status
+2024-04-05 04:12:39,245 DEBUG   HandlerThread:65949 [handler.py:handle_request():146] handle_request: internal_messages
+2024-04-05 04:12:41,634 DEBUG   HandlerThread:65949 [handler.py:handle_request():146] handle_request: status_report
