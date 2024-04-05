@@ -37,11 +37,15 @@ cpu web运行 没有sweep
 kaggle save output 但是在output界面没看到。
 
 ### run06
-run https://wandb.ai/team-mykcs/lightning_logs/runs/vxfxwipt?nw=nwusermykcs
-sweep https://wandb.ai/team-mykcs/test-sweeps06
-
-
-
 kaggle，没有在add-ons scrects加入wandb_key。运行作废。
 
+run07-sweep里的version2
+https://www.kaggle.com/code/mykcs01/run07-sweep?scriptVersionId=170456679
+
+
 ### run07
+notebook https://www.kaggle.com/code/mykcs01/run07-sweep/notebook
+
+run https://wandb.ai/team-mykcs/lightning_logs/runs/vxfxwipt?nw=nwusermykcs
+
+sweep https://wandb.ai/team-mykcs/test-sweeps07
