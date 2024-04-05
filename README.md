@@ -6,23 +6,23 @@ seg
 
 # run 记录
 
-run01 
+### run01 
 
-kaggle web运行。
+kaggle webrun。
 
 sweep最后一点没有运行完整。
 
-### run02 
+### run02 -gpu webrun
 
-gpu webrun
+run https://wandb.ai/team-mykcs/lightning_logs/runs/vl8chrw1?nw=nwusermykcs
 
 sweep https://wandb.ai/team-mykcs/test-sweeps02
 
-run03 blue 界面运行
+### run03 blue 界面运行
 
 run03 red save运行。 这两个的sweep可能会混。
 
-### run04-cpu-saverun
+### run04 -cpu-saverun
 https://www.kaggle.com/code/yufang18/run04-cpu-saverun/output?scriptVersionId=170453763
 
 wandb
