@@ -1,6 +1,8 @@
 # SMUet-0404
 
-dataset https://www.kaggle.com/datasets/liaoguoying/rawniidataset
+wandb kaggle pytorch_lightning
+
+seg
 
 # run 记录
 
