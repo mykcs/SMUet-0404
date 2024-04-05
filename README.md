@@ -44,8 +44,21 @@ https://www.kaggle.com/code/mykcs01/run07-sweep?scriptVersionId=170456679
 
 
 ### run07
+没有存到github里，奇怪。
+
 notebook https://www.kaggle.com/code/mykcs01/run07-sweep/notebook
+
+output 在kaggle的output可以下载
 
 run https://wandb.ai/team-mykcs/lightning_logs/runs/vxfxwipt?nw=nwusermykcs
 
 sweep https://wandb.ai/team-mykcs/test-sweeps07
+
+iss：cell27 MisconfigurationException: No `test_step()` method defined to run `Trainer.test`.
+
+不理解：在wandb project=test-sweeps07里，sweep2-9都failed。
+
+# 下一步
+理解代码
+
+尝试解决issue
