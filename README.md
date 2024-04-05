@@ -62,3 +62,14 @@ iss：cell27 MisconfigurationException: No `test_step()` method defined to run `
 理解代码
 
 尝试解决issue
+
+
+
+
+
+---
+
+# Ref
+dataset https://www.kaggle.com/datasets/liaoguoying/rawniidataset/code
+
+notebook tps://www.kaggle.com/code/liaoguoying/smu-dataset
