@@ -20,4 +20,6 @@ run03 red save运行。 这两个的sweep可能会混。
 
 run04 cpu save运行。
 
-run05 cpu 窗口运行。
+run05 
+
+cpu web运行 没有sweep
