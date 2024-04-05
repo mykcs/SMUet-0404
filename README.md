@@ -12,9 +12,11 @@ kaggle web运行。
 
 sweep最后一点没有运行完整。
 
-run02 
+### run02 
 
-gpu 界面运行
+gpu webrun
+
+sweep https://wandb.ai/team-mykcs/test-sweeps02
 
 run03 blue 界面运行
 
