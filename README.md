@@ -18,7 +18,16 @@ run03 blue 界面运行
 
 run03 red save运行。 这两个的sweep可能会混。
 
-run04 cpu save运行。
+### run04-cpu-saverun
+https://www.kaggle.com/code/yufang18/run04-cpu-saverun/output?scriptVersionId=170453763
+
+wandb
+https://wandb.ai/team-mykcs/lightning_logs/runs/98b6flex/workspace?nw=nwusermykcs
+
+运行中，在kaggle notebook setting，改了名字。就结束了。
+
+没有sweep
+
 
 ### run05 
 https://www.kaggle.com/code/yufang18/run05-cpu-web-sweepno/output
