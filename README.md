@@ -33,12 +33,9 @@ https://wandb.ai/team-mykcs/lightning_logs/runs/98b6flex/workspace?nw=nwusermykc
 没有sweep
 
 
-### run05 
+### run05 -webrun cpu nosweep
 notebook delete
 
-cpu web运行 没有sweep
-
-kaggle save output 但是在output界面没看到。
 
 ### run06
 kaggle，没有在add-ons scrects加入wandb_key。运行作废。
