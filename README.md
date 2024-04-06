@@ -64,15 +64,15 @@ iss：cell27 MisconfigurationException: No `test_step()` method defined to run `
 
 尝试解决issue
 
-### run08 web
+### run08 webrun
 
-notebook 
+notebook https://www.kaggle.com/code/mykcs01/run08-nosweep-lsft/notebook
 
 run https://wandb.ai/team-mykcs/lightning_logs/runs/05wdum4l?nw=nwusermykcs
 
 sweep no 直接跳过了，没有运行
 
-Lightning Style Formal Test 尝试 https://wandb.ai/team-mykcs/UNet_Baseline?nw=nwusermykcs
+Lightning Style Formal Test 尝试 https://wandb.ai/team-mykcs/UNet_Baseline-08
 
 
 ---
