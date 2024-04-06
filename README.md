@@ -20,6 +20,8 @@ sweep https://wandb.ai/team-mykcs/test-sweeps02
 
 ### run03
 
+在kaggle界面运行了，同时按了saverun。出现了下面的情况。
+
 webrun wandb https://wandb.ai/team-mykcs/lightning_logs/runs/8hny8gx9
 
 webrun sweep https://wandb.ai/team-mykcs/test-sweeps03/sweeps/8gaeiub3
