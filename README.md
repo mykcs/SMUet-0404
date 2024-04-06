@@ -104,6 +104,18 @@ cell 31 路径没有改，运行失败
 
 ---
 
+# sweep
+
+### run11 sweep
+
+ref [lgy-notebook-ver6](https://www.kaggle.com/code/liaoguoying/smu-dataset?scriptVersionId=169703867)
+
+没有之前的run
+
+直接sweep（不是很理解）
+
+[wandb sweep](https://wandb.ai/team-mykcs/test-sweeps11)
+
 # update
 
 发布了 [Aug Dataset for Fine-tune](https://www.kaggle.com/datasets/liaoguoying/aug-dataset-for-fine-tune)
