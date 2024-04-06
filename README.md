@@ -18,9 +18,15 @@ run https://wandb.ai/team-mykcs/lightning_logs/runs/vl8chrw1?nw=nwusermykcs
 
 sweep https://wandb.ai/team-mykcs/test-sweeps02
 
-### run03 blue 界面运行
+### run03
 
-run03 red save运行。 这两个的sweep可能会混。
+webrun wandb https://wandb.ai/team-mykcs/lightning_logs/runs/8hny8gx9
+
+webrun sweep https://wandb.ai/team-mykcs/test-sweeps03/sweeps/8gaeiub3
+
+saverun wandb https://wandb.ai/team-mykcs/lightning_logs/runs/pytbhywb
+
+saverun sweep https://wandb.ai/team-mykcs/test-sweeps03/sweeps/ami2it79
 
 ### run04 -cpu-saverun
 https://www.kaggle.com/code/yufang18/run04-cpu-saverun/output?scriptVersionId=170453763
