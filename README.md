@@ -34,7 +34,7 @@ https://wandb.ai/team-mykcs/lightning_logs/runs/98b6flex/workspace?nw=nwusermykc
 
 
 ### run05 
-https://www.kaggle.com/code/yufang18/run05-cpu-web-sweepno/output
+notebook delete
 
 cpu web运行 没有sweep
 
