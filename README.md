@@ -10,7 +10,7 @@ seg
 
 run https://wandb.ai/team-mykcs/lightning_logs/runs/c5e1wmlb?nw=nwusermykcs
 
-sweep+formal test https://wandb.ai/team-mykcs/test-sweeps01?nw=nwusermykcs
+sweep+formal test 跳着运行了，没有什么意义 地址在这里 https://wandb.ai/team-mykcs/test-sweeps01?nw=nwusermykcs
 
 ### run02 -gpu webrun
 
