@@ -6,11 +6,11 @@ seg
 
 # run 记录
 
-### run01 
+### run01 -webrun
 
-kaggle webrun。
+run https://wandb.ai/team-mykcs/lightning_logs/runs/c5e1wmlb?nw=nwusermykcs
 
-sweep最后一点没有运行完整。
+sweep+formal test https://wandb.ai/team-mykcs/test-sweeps01?nw=nwusermykcs
 
 ### run02 -gpu webrun
 
