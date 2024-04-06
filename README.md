@@ -86,9 +86,13 @@ sweep no 直接跳过了，没有运行
 
 Lightning Style Formal Test 尝试 https://wandb.ai/team-mykcs/UNet_Baseline-08
 
-### run10 webrun
+### run09 -saverun-sweep-lsft
 
-notebook https://www.kaggle.com/code/mykcs01/run10-test-step-sweep-lsft/notebook?scriptVersionId=170546708
+[kaggle notebook](https://www.kaggle.com/code/yufang18/run09-saverun-sweep-lsft/notebook)
+
+### run10 -webrun
+
+[notebook](https://www.kaggle.com/code/mykcs01/run10-test-step-sweep-lsft/notebook?scriptVersionId=170546708) 
 
 run https://wandb.ai/team-mykcs/lightning_logs/runs/1mql96qg
 
