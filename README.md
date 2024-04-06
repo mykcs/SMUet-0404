@@ -104,6 +104,12 @@ cell 31 路径没有改，运行失败
 
 ---
 
+# update
+
+发布了 [Aug Dataset for Fine-tune](https://www.kaggle.com/datasets/liaoguoying/aug-dataset-for-fine-tune)
+
+---
+
 # Ref
 dataset https://www.kaggle.com/datasets/liaoguoying/rawniidataset/code
 
