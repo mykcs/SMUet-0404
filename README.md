@@ -110,11 +110,16 @@ cell 31 路径没有改，运行失败
 
 ref [lgy-notebook-ver6](https://www.kaggle.com/code/liaoguoying/smu-dataset?scriptVersionId=169703867)
 
-没有之前的run
+没有第一部分的run
 
-直接sweep（不是很理解）
+直接sweep（不是很理解）  [wandb sweep](https://wandb.ai/team-mykcs/test-sweeps11)
 
-[wandb sweep](https://wandb.ai/team-mykcs/test-sweeps11)
+运行到cell `wandb_logger = WandbLogger(project="SMU_MOA-run11", name="ResUNetPP50_monaiDiceCELoss_Max150")`
+
+突然界面全没了。只能刷新。结果运行结果全没了。
+
+重新运行cell `trainer = Trainer(max_epochs=150` 。wandb界面还有，离谱。
+
 
 # update
 
