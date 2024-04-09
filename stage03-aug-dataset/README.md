@@ -33,10 +33,17 @@ NameError: name 'model_ckpt' is not defined
 
 ---
 
-loss巨高-04100102
+### lossHign-04100102
+github notebook
 
 [kaggle notebook](https://www.kaggle.com/code/mykcs01/loss-04100102/notebook)
 
 [wandb run](https://wandb.ai/team-mykcs/UNet_Compare/runs/k74z1q5q)
 
 [poor model](https://wandb.ai/team-mykcs/UNet_Compare/artifacts/model/poor-model-04100102)
+
+### loss-high-04100202
+
+[github notebook](https://github.com/mykcs/SMUet-0404/blob/main/loss-high-04100202.ipynb)
+
+[wandb run](https://wandb.ai/team-mykcs/UNet_Compare/runs/5sm6w8km)
