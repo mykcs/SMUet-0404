@@ -50,11 +50,9 @@ github notebook
 
 ### epo480-half-04100132
 
-按理说，这个应该也是用了tuner
-训练失败的，但是很奇怪还是正常训练。
+按理说，这个也用了tuner。 应该loss high的，但是正常训练。
 
 [wandb run](https://wandb.ai/team-mykcs/UNet_Compare/runs/y10ndgqn)
-
 可以看到后面有点过拟合了。
 
 ### epo120-04100227
