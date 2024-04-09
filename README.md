@@ -4,18 +4,16 @@ wandb kaggle pytorch_lightning
 
 seg
 
+## stage01-firsttry
+
+熟悉项目
+
+## stage02-sweep
 
 
-### run01 -webrun
 
+## stage03-aug-ddataset
 
-
----
-
-# 下一步
-理解代码
-
-尝试解决issue
 
 ---
 
