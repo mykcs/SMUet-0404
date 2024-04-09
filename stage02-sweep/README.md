@@ -1,9 +1,5 @@
 # SMUet-0404
 
-## stage01-firsttry
-
-先熟悉项目
-
 ## stage02-sweep
 
 加入了sweep。
@@ -55,43 +51,40 @@ notebook delete
 ### run06
 kaggle，没有在add-ons scrects加入wandb_key。运行作废。
 
-run07-sweep里的version2
-https://www.kaggle.com/code/mykcs01/run07-sweep?scriptVersionId=170456679
-
+run07-sweep里的[version2](https://www.kaggle.com/code/mykcs01/run07-sweep?scriptVersionId=170456679)
 
 ### run07 -saverun
 没有存到github里，奇怪。
 
-notebook https://www.kaggle.com/code/mykcs01/run07-sweep/notebook
+kaggle notebook [version3](https://www.kaggle.com/code/mykcs01/run07-sweep/notebook
+)
 
 output 在kaggle的output可以下载
 
-run https://wandb.ai/team-mykcs/lightning_logs/runs/vxfxwipt
+[wandb](https://wandb.ai/team-mykcs/lightning_logs/runs/vxfxwipt) 
 
-sweep https://wandb.ai/team-mykcs/test-sweeps07
+[sweep](https://wandb.ai/team-mykcs/test-sweeps07) 
 
 issue：cell27 MisconfigurationException: No `test_step()` method defined to run `Trainer.test`.
-
-不理解：在wandb project=test-sweeps07里，sweep2-9都failed。
+（跳过了，没去解决。）
 
 ---
 
-# 下一步
-理解代码
+## 下一步
 
-尝试解决issue
+理解代码
 
 ---
 
 ### run08 webrun
 
-notebook https://www.kaggle.com/code/mykcs01/run08-nosweep-lsft/notebook
+[notebook](https://www.kaggle.com/code/mykcs01/run08-nosweep-lsft/notebook) 
 
-run https://wandb.ai/team-mykcs/lightning_logs/runs/05wdum4l?nw=nwusermykcs
+[run](https://wandb.ai/team-mykcs/lightning_logs/runs/05wdum4l?nw=nwusermykcs)
 
 sweep no 直接跳过了，没有运行
 
-Lightning Style Formal Test 尝试 https://wandb.ai/team-mykcs/UNet_Baseline-08
+Lightning Style Formal Test [尝试](https://wandb.ai/team-mykcs/UNet_Baseline-08/runs/o359bita)
 
 ### run09 -saverun-sweep-lsft
 
@@ -101,17 +94,16 @@ Lightning Style Formal Test 尝试 https://wandb.ai/team-mykcs/UNet_Baseline-08
 
 [notebook](https://www.kaggle.com/code/mykcs01/run10-test-step-sweep-lsft/notebook?scriptVersionId=170546708) 
 
-run https://wandb.ai/team-mykcs/lightning_logs/runs/1mql96qg
+[run](https://wandb.ai/team-mykcs/lightning_logs/runs/1mql96qg) 
 
-sweep https://wandb.ai/team-mykcs/test-sweeps10
+[sweep](https://wandb.ai/team-mykcs/test-sweeps10) 
 
-formal test https://wandb.ai/team-mykcs/test-sweeps10/runs/ah96kd98/overview?nw=nwusermykcs
+formal [test](https://wandb.ai/team-mykcs/test-sweeps10/runs/ah96kd98/overview?nw=nwusermykcs
+)
 
 cell 31 路径没有改，运行失败
 
 ---
-
-# sweep
 
 ### run11 sweep
 
@@ -131,33 +123,3 @@ ref [lgy-notebook-ver6](https://www.kaggle.com/code/liaoguoying/smu-dataset?scri
 <img width="1544" alt="image" src="https://github.com/mykcs/SMUet-0404/assets/165669834/cc9d0ccc-cbe7-4eae-8bdc-264abd3be6ee">
 
 
-# update
-
-发布了 [Aug Dataset for Fine-tune](https://www.kaggle.com/datasets/liaoguoying/aug-dataset-for-fine-tune)
-
----
-
-### train_froma_poormodel-04082323
-
-[kaggle notebook](https://www.kaggle.com/yufang18/train-froma-poormodel-04082323)
-
-没有 run-overfit
-
-model 之前不知道哪个，好像有点弱的model
-
-[wandb](https://wandb.ai/team-mykcs/UNet_Compare/runs/ewgcpqsb)
-
-### run-04090529
-
-[kaggle notebook](https://www.kaggle.com/code/yufang18/notebookc5abae8998/notebook)
-
-run-overfit [wandb](https://wandb.ai/team-mykcs/lightning_logs/runs/83t1nw8o)
-
-run ResUNet_ep120_DiceCELosswithKL crashed  [wandb](https://wandb.ai/team-mykcs/UNet_Compare/runs/odxjpwe3/overview?nw=nwusermykcs)
-
-NameError: name 'model_ckpt' is not defined
-
-# Ref
-dataset https://www.kaggle.com/datasets/liaoguoying/rawniidataset/code
-
-notebook tps://www.kaggle.com/code/liaoguoying/smu-dataset
