@@ -21,38 +21,36 @@ webrun [wandb run](https://wandb.ai/team-mykcs/lightning_logs/runs/c5e1wmlb?nw=n
 
 sweep+formal test 跳着运行了，没有什么意义 [wandb sweep](https://wandb.ai/team-mykcs/test-sweeps01?nw=nwusermykcs)
 
-### run02 -gpu webrun
+### run-0405-0342
+-gpu webrun
 
-run https://wandb.ai/team-mykcs/lightning_logs/runs/vl8chrw1?nw=nwusermykcs
+[wandb run](https://wandb.ai/team-mykcs/lightning_logs/runs/vl8chrw1) 
 
-sweep https://wandb.ai/team-mykcs/test-sweeps02
+[sweep](https://wandb.ai/team-mykcs/test-sweeps02/) 
 
 ### run03
 
-在kaggle界面运行了，同时按了saverun。出现了下面的情况。
+在kaggle web运行了，同时按了saverun。出现了下面的情况。
 
-webrun wandb https://wandb.ai/team-mykcs/lightning_logs/runs/8hny8gx9
+run03-webrun [wandb](https://wandb.ai/team-mykcs/lightning_logs/runs/8hny8gx9)
+run03-webrun [sweep](https://wandb.ai/team-mykcs/test-sweeps03/sweeps/8gaeiub3) 
 
-webrun sweep https://wandb.ai/team-mykcs/test-sweeps03/sweeps/8gaeiub3
-
-saverun wandb https://wandb.ai/team-mykcs/lightning_logs/runs/pytbhywb
-
-saverun sweep https://wandb.ai/team-mykcs/test-sweeps03/sweeps/ami2it79
+run03-saverun [wandb](https://wandb.ai/team-mykcs/lightning_logs/runs/pytbhywb)
+run03-saverun [sweep](https://wandb.ai/team-mykcs/test-sweeps03/sweeps/ami2it79) 
 
 ### run04 -cpu-saverun
-https://www.kaggle.com/code/yufang18/run04-cpu-saverun/output?scriptVersionId=170453763
+[kaggle notebook]( https://www.kaggle.com/code/yufang18/run04-cpu-saverun/output?scriptVersionId=170453763)
+好像缺失
 
-wandb
-https://wandb.ai/team-mykcs/lightning_logs/runs/98b6flex/workspace?nw=nwusermykcs
+[wandb](https://wandb.ai/team-mykcs/lightning_logs/runs/98b6flex)
 
 运行中，在kaggle notebook setting，改了名字。就结束了。
 
 没有sweep
 
-
 ### run05 -webrun cpu nosweep
-notebook delete
 
+notebook delete
 
 ### run06
 kaggle，没有在add-ons scrects加入wandb_key。运行作废。
