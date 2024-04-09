@@ -130,6 +130,16 @@ ref [lgy-notebook-ver6](https://www.kaggle.com/code/liaoguoying/smu-dataset?scri
 
 ---
 
+### train_froma_poormodel-04082323
+
+[kaggle notebook](https://www.kaggle.com/yufang18/train-froma-poormodel-04082323)
+
+没有 run-overfit
+
+model 之前不知道哪个，好像有点弱的model
+
+[wandb](https://wandb.ai/team-mykcs/UNet_Compare/runs/ewgcpqsb)
+
 ### run-04090529
 
 [kaggle notebook](https://www.kaggle.com/code/yufang18/notebookc5abae8998/notebook)
