@@ -47,3 +47,16 @@ github notebook
 [github notebook](https://github.com/mykcs/SMUet-0404/blob/main/loss-high-04100202.ipynb)
 
 [wandb run](https://wandb.ai/team-mykcs/UNet_Compare/runs/5sm6w8km)
+
+
+### epo120-04100227
+github notebook
+
+kaggle notebook
+
+wandb run
+
+model 在另一个run上。[here](https://wandb.ai/team-mykcs/uncategorized/artifacts/model/model-epo120-04100227/v0)
+把run移动走了，但是model还在原来的project里面，也无法移动。
+
+重新建立了一个[run](https://wandb.ai/team-mykcs/UNet_Compare/runs/2zh292n0)，把model传上去。
