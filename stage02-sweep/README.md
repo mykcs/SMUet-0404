@@ -1,14 +1,25 @@
 # SMUet-0404
 
+## stage01-firsttry
+
+先熟悉项目
+
 ## stage02-sweep
+
+加入了sweep。
+
+“但其实sweep没有什么用。他是帮选哪个超参数效果好，
+你想要训练你就用下面的formal test 或者 pre train test”
+
+[issue 2](https://github.com/mykcs/SMUet-0404/issues/2)
+每一组sweeps的sweep-1和最后的Origin_UNet_noAtt_Max150_DiceCELoss有数据，中间的都没有。
 
 ### run 记录
 
-### run-0404-2300 -webrun
+### run-0404-2300 
+webrun [wandb run](https://wandb.ai/team-mykcs/lightning_logs/runs/c5e1wmlb?nw=nwuserkagura0108)
 
-[wandb](https://wandb.ai/team-mykcs/lightning_logs/runs/c5e1wmlb?nw=nwuserkagura0108)
-
-sweep+formal test 跳着运行了，没有什么意义 [地址](https://wandb.ai/team-mykcs/test-sweeps01?nw=nwusermykcs)
+sweep+formal test 跳着运行了，没有什么意义 [wandb sweep](https://wandb.ai/team-mykcs/test-sweeps01?nw=nwusermykcs)
 
 ### run02 -gpu webrun
 
