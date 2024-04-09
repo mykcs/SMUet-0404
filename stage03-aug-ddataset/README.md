@@ -31,3 +31,12 @@ run ResUNet_ep120_DiceCELosswithKL crashed  [wandb](https://wandb.ai/team-mykcs/
 
 NameError: name 'model_ckpt' is not defined
 
+---
+
+loss巨高-04100102
+
+[kaggle notebook](https://www.kaggle.com/code/mykcs01/loss-04100102/notebook)
+
+[wandb run](https://wandb.ai/team-mykcs/UNet_Compare/runs/k74z1q5q)
+
+[poor model](https://wandb.ai/team-mykcs/UNet_Compare/artifacts/model/poor-model-04100102)
