@@ -1,6 +1,13 @@
 # SMUet-0404
 
-发布了 [Aug Dataset for Fine-tune](https://www.kaggle.com/datasets/liaoguoying/aug-dataset-for-fine-tune)
+## stage03-aug-ddataset
+
+lgy [kaggle notebook](https://www.kaggle.com/code/liaoguoying/delve-into-aug-a-new-dataset-for-fine-tune)
+
+[self fork](https://www.kaggle.com/code/yufang18/fork-delve-into-aug-a-new-dataset-for-fine-tuning/output)
+
+生成了新dataset [Aug Dataset for Fine-tune](https://www.kaggle.com/datasets/liaoguoying/aug-dataset-for-fine-tune)
+
 
 ---
 
