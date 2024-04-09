@@ -130,6 +130,14 @@ ref [lgy-notebook-ver6](https://www.kaggle.com/code/liaoguoying/smu-dataset?scri
 
 ---
 
+### run-04090529
+
+[notebook](https://www.kaggle.com/code/yufang18/notebookc5abae8998/notebook)
+
+run-overfit [wandb](https://wandb.ai/team-mykcs/lightning_logs/runs/83t1nw8o)
+
+run ResUNet_ep120_DiceCELosswithKL crashed NameError: name 'model_ckpt' is not defined wandb
+
 # Ref
 dataset https://www.kaggle.com/datasets/liaoguoying/rawniidataset/code
 
