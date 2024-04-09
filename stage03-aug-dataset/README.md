@@ -48,6 +48,14 @@ github notebook
 
 [wandb run](https://wandb.ai/team-mykcs/UNet_Compare/runs/5sm6w8km)
 
+### epo480-half-04100132
+
+按理说，这个应该也是用了tuner
+训练失败的，但是很奇怪还是正常训练。
+
+[wandb run](https://wandb.ai/team-mykcs/UNet_Compare/runs/y10ndgqn)
+
+可以看到后面有点过拟合了。
 
 ### epo120-04100227
 github notebook
@@ -60,5 +68,8 @@ model 在另一个run上。[here](https://wandb.ai/team-mykcs/uncategorized/arti
 把run移动走了，但是model还在原来的project里面，也无法移动。
 
 重新建立了一个[run](https://wandb.ai/team-mykcs/UNet_Compare/runs/2zh292n0)，把model传上去。
+
+epo480-half-04100132
+
 
 ### epo120-AugDataset
