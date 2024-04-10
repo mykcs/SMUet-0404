@@ -71,3 +71,30 @@ epo480-half-04100132
 
 
 ### epo120-AugDataset
+
+### epo200-AugDataset-04100422
+notebook [kaggle](https://www.kaggle.com/code/mykcs01/epo200-augdataset-04100422?scriptVersionId=171226718)
+
+wandb [run](https://wandb.ai/team-mykcs/UNet_Compare/runs/z8norpkj/overview?nw=nwusermykcs)
+
+model [kaggle](https://www.kaggle.com/code/mykcs01/epo200-augdataset-04100422/output?scriptVersionId=171226718)
+
+### [OutMem]MAnet-bs64
+
+notebook [kaggle](https://www.kaggle.com/yufang18/outmem-manet-bs64)
+
+wandb [run](https://wandb.ai/team-mykcs/UNet_Compare/runs/vrpvm0ub)
+
+### MAnet-epo200-AugDataset
+
+notebook [kaggle](https://wandb.ai/team-mykcs/UNet_Compare/runs/rk9ow5ut/workspace?nw=nwusermykcs)
+
+output [model](https://www.kaggle.com/code/yufang18/manet-epo200-augdataset/output?scriptVersionId=171236975)
+
+wandb [run](https://wandb.ai/team-mykcs/UNet_Compare/runs/rk9ow5ut/overview?nw=nwusermykcs)
+
+### [OutMem]UnetPlusPlus-bs64
+
+notebook [kaggle](https://www.kaggle.com/code/mykcs01/outmem-unetplusplus-bs64?scriptVersionId=171234808)
+
+wandb https://wandb.ai/team-mykcs/UNet_Compare/runs/ay9b3e2t/overview?nw=nwusermykcs
