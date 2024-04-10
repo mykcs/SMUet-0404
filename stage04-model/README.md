@@ -24,7 +24,7 @@ wandb [run](https://wandb.ai/team-mykcs/UNet_Compare/runs/rk9ow5ut/overview?nw=n
 
 notebook [kaggle](https://www.kaggle.com/code/mykcs01/outmem-unetplusplus-bs64?scriptVersionId=171234808)
 
-wandb https://wandb.ai/team-mykcs/UNet_Compare/runs/ay9b3e2t/overview?nw=nwusermykcs
+wandb [run](https://wandb.ai/team-mykcs/UNet_Compare/runs/ay9b3e2t/overview?nw=nwusermykcs)
 
 
 ### test-scec-04101538
