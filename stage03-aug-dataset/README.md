@@ -67,7 +67,7 @@ model 在另一个run上。[here](https://wandb.ai/team-mykcs/uncategorized/arti
 
 重新建立了一个[run](https://wandb.ai/team-mykcs/UNet_Compare/runs/2zh292n0)，把model传上去。
 
-epo480-half-04100132
+### epo480-half-04100132
 
 
 ### epo120-AugDataset
