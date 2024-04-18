@@ -26,7 +26,6 @@ notebook [kaggle](https://www.kaggle.com/code/mykcs01/outmem-unetplusplus-bs64?s
 
 wandb [run](https://wandb.ai/team-mykcs/UNet_Compare/runs/ay9b3e2t/overview?nw=nwusermykcs)
 
-
 ### test-scec-04101538
 
 notebook [kaggle](https://www.kaggle.com/code/yufang18/test-scec-04101538/notebook)
