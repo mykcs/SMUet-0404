@@ -17,3 +17,9 @@ wandb [run](https://wandb.ai/team-mykcs/UNet_Compare/runs/tp3mutkp)
 ### ver0418-macro
 
 修改了Metrics部分，micro改为macro
+
+lambda_dice=0.85, lambda_ce=0.15, lambda_kl=2.0，但是看着效果好像不太好
+
+notebook kaggle
+
+wandb run
