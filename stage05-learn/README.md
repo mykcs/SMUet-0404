@@ -20,8 +20,12 @@ wandb [run](https://wandb.ai/team-mykcs/UNet_Compare/runs/tp3mutkp)
 
 lambda_dice=0.85, lambda_ce=0.15, lambda_kl=2.0，但是看着效果好像不太好
 
-notebook kaggle
+[kaggle-notebook](https://www.kaggle.com/code/mykcs01/run0418-macro-lambda-kl-2/notebook) 
+[wandb-run](https://wandb.ai/team-mykcs/UNet_Compare/runs/tx6cw5nm)
 
-wandb run
+### run0418
 
-### ver0418
+目前当作baseline吧
+
+[kaggle-notebook](https://www.kaggle.com/code/yufang18/run0418/notebook) 
+[wandb-run](https://wandb.ai/team-mykcs/UNet_Compare/runs/cf3v4x1l)
