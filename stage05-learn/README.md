@@ -43,3 +43,15 @@ encoder_name='mit_b2'，in_channels=3
 
 kaggle-notebook
 [wandb-run](https://wandb.ai/team-mykcs/UNet_Compare/runs/76hx468j)
+
+### DiceCELoss
+
+DiceCELoss
+
+kaggle-notebook
+wandb-run
+
+### 
+
+kaggle-notebook
+wandb-run
