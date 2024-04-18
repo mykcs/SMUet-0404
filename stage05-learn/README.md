@@ -51,15 +51,15 @@ DiceCELoss
 [kaggle-notebook](https://www.kaggle.com/code/mykcs01/diceceloss/notebook) 
 [wandb-run](https://wandb.ai/team-mykcs/UNet_Compare/runs/3v7gn20j)
 
-### 
-
-kaggle-notebook
-wandb-run
-
 ### MViTUNet-DiceCELoss
 
 [kaggle-notebook](https://www.kaggle.com/code/yufang18/mvitunet-diceceloss)
 [wandb-run](https://wandb.ai/team-mykcs/UNet_Compare/runs/355n4b8x)
+
+### FocalLoss
+
+[kaggle-notebook](https://www.kaggle.com/code/mykcs01/focalloss) 
+[wandb-run](https://wandb.ai/team-mykcs/UNet_Compare/runs/v6cewtc2)
 
 ### 
 
