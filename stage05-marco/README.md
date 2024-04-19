@@ -17,8 +17,8 @@ wandb [run](https://wandb.ai/team-mykcs/UNet_Compare/runs/tp3mutkp)
 ---
 
 baseline：resnet50-Unet-DiceCE
-[kaggle-notebook]() 
-[wandb-run]()
+[kaggle-notebook](https://www.kaggle.com/code/gemini2024/resnet50-unet-dicece/notebook) 
+[wandb-run](https://wandb.ai/team-mykcs/UNet_Compare/runs/kt5ufquk)
 
 ## 数据集对比
 
