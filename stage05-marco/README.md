@@ -28,6 +28,7 @@ Dice
 [wandb-run](https://wandb.ai/team-mykcs/UNet_Compare/runs/ovnlwkwj)
 
 resnet50-Unet-DiceCEKL-kl2
+[kaggle-notebook](https://www.kaggle.com/code/mykcs01/run0418-macro-lambda-kl-2/notebook) 
 [wandb-run](https://wandb.ai/team-mykcs/UNet_Compare/runs/tx6cw5nm)
 
 DiceCELossWithKL
@@ -37,8 +38,16 @@ Focal
 [wandb-run](https://wandb.ai/team-mykcs/UNet_Compare/runs/v6cewtc2)
 
 smp-Dice
-[kaggle-notebook](https://www.kaggle.com/code/gemini2024/resnet50-unet-smp-dice?scriptVersionId=172881878)
+[kaggle-notebook](https://www.kaggle.com/code/gemini2024/resnet50-unet-smp-dice?scriptVersionId=172881878) 
 [wandb-run](https://wandb.ai/team-mykcs/UNet_Compare/runs/514ebpd6)
+
+#### DiceLoss-icl_bk
+
+参数，include_background=True，实际上默认也是True
+
+[kaggle-notebook](https://www.kaggle.com/code/mykcs01/diceloss-icl-bk/notebook) 
+[wandb-run](https://wandb.ai/team-mykcs/UNet_Compare/runs/4q9veicm)
+
 
 12.3 encoder 对比
 baseline: resnet50-Unet-DiceCE
@@ -57,14 +66,7 @@ notebook [kaggle](https://www.kaggle.com/code/mykcs01/ver0418/notebook)
 
 wandb [run](https://wandb.ai/team-mykcs/UNet_Compare/runs/tp3mutkp)
 
-### run0418-macro-lambda_kl=2
 
-修改了Metrics部分，micro改为macro
-
-lambda_dice=0.85, lambda_ce=0.15, lambda_kl=2.0，但是看着效果好像不太好
-
-[kaggle-notebook](https://www.kaggle.com/code/mykcs01/run0418-macro-lambda-kl-2/notebook) 
-[wandb-run](https://wandb.ai/team-mykcs/UNet_Compare/runs/tx6cw5nm)
 
 ### run0418
 
@@ -73,12 +75,6 @@ lambda_dice=0.85, lambda_ce=0.15, lambda_kl=2.0，但是看着效果好像不太
 [kaggle-notebook](https://www.kaggle.com/code/yufang18/run0418/notebook) 
 [wandb-run](https://wandb.ai/team-mykcs/UNet_Compare/runs/cf3v4x1l)
 
-### run-old_dataset
-
-使用旧dataset
-
-[kaggle-notebook](https://www.kaggle.com/code/mykcs01/run-old-dataset/notebook) 
-[wandb-run](https://wandb.ai/team-mykcs/UNet_Compare/runs/1wfvee3h?nw=nwusermykcs)
 
 ### MViTUNet
 
@@ -112,12 +108,6 @@ x = x.repeat(1,3,1,1)
 [kaggle-notebook](https://www.kaggle.com/code/yufang18/mvitmanet-diceceloss/notebook)
 [wandb-run](https://wandb.ai/team-mykcs/UNet_Compare/runs/1pxr47e2)
 
-#### DiceLoss-icl_bk
-
-参数，include_background=True，实际上默认也是True
-
-[kaggle-notebook](https://www.kaggle.com/code/mykcs01/diceloss-icl-bk/notebook) 
-[wandb-run](https://wandb.ai/team-mykcs/UNet_Compare/runs/4q9veicm)
 
 ### mitb5-MAnet-DiceCELoss
 
