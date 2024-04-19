@@ -68,9 +68,9 @@ baseline: resnet50-Unet-DiceCE
 
 compare: 
 
-mitb2-Unet [wandb-run](https://wandb.ai/team-mykcs/UNet_Compare/runs/76hx468j)
+mitb2-UNet-DiceCE [wandb-run](https://wandb.ai/team-mykcs/UNet_Compare/runs/76hx468j)
 
-mitb5-Unet
+mitb2-UNet-DiceCE [kaggle-notebook](https://www.kaggle.com/code/yufang18/mitb2-unet-dicece?scriptVersionId=172752033) [wandb-run](https://wandb.ai/team-mykcs/UNet_Compare/runs/355n4b8x)
 
 mitb2-MAnet
 
