@@ -27,7 +27,8 @@ Dice
 [kaggle-notebook](https://www.kaggle.com/code/gemini2024/resnet50-unet-monai-dice?scriptVersionId=172892353) 
 [wandb-run](https://wandb.ai/team-mykcs/UNet_Compare/runs/ovnlwkwj)
 
-DiceCELossWithKL-kl2
+resnet50-Unet-DiceCEKL-kl2
+[wandb-run](https://wandb.ai/team-mykcs/UNet_Compare/runs/tx6cw5nm)
 
 DiceCELossWithKL
 
