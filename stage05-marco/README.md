@@ -6,6 +6,16 @@
 
 ---
 
+### ver0418-stage04
+
+0418，距离上次运行很久了，现在熟悉一下。
+
+notebook [kaggle](https://www.kaggle.com/code/mykcs01/ver0418/notebook)
+
+wandb [run](https://wandb.ai/team-mykcs/UNet_Compare/runs/tp3mutkp)
+
+---
+
 baseline：resnet50-Unet-DiceCE
 [kaggle-notebook](https://www.kaggle.com/code/mykcs01/diceceloss/notebook) 
 [wandb-run](https://wandb.ai/team-mykcs/UNet_Compare/runs/3v7gn20j)
