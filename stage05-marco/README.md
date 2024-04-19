@@ -17,8 +17,8 @@ wandb [run](https://wandb.ai/team-mykcs/UNet_Compare/runs/tp3mutkp)
 ---
 
 baseline：resnet50-Unet-DiceCE
-[kaggle-notebook](https://www.kaggle.com/code/mykcs01/diceceloss/notebook) 
-[wandb-run](https://wandb.ai/team-mykcs/UNet_Compare/runs/3v7gn20j)
+[kaggle-notebook]() 
+[wandb-run]()
 
 ## 数据集对比
 
@@ -74,6 +74,6 @@ mitb2-UNet-DiceCE [kaggle-notebook](https://www.kaggle.com/code/yufang18/mitb2-u
 
 mitb2-MAnet-DiceCE [kaggle-notebook](https://www.kaggle.com/code/yufang18/mitb2-manet-dicece?scriptVersionId=172761661) [wandb-run](https://wandb.ai/team-mykcs/UNet_Compare/runs/1pxr47e2)
 
-mitb5-MAnet notebook-kaggle
+mitb5-MAnet-DiceCE notebook-kaggle wandb-run
 
 
