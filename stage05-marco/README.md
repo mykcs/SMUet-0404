@@ -7,10 +7,12 @@
 ---
 
 baseline：resnet50-Unet-DiceCE
+[kaggle-notebook](https://www.kaggle.com/code/mykcs01/diceceloss/notebook) 
+[wandb-run](https://wandb.ai/team-mykcs/UNet_Compare/runs/3v7gn20j)
 
 ## 数据集对比
 
-baseline: dataset2
+baseline: resnet50-Unet-DiceCE
 
 compare:
 
@@ -23,7 +25,7 @@ baseline: resnet50-Unet-DiceCE
 
 compare: 
 
-Dice
+resnet50-Unet-Dice
 [kaggle-notebook](https://www.kaggle.com/code/gemini2024/resnet50-unet-monai-dice?scriptVersionId=172892353) 
 [wandb-run](https://wandb.ai/team-mykcs/UNet_Compare/runs/ovnlwkwj)
 
@@ -31,13 +33,15 @@ resnet50-Unet-DiceCEKL-kl2
 [kaggle-notebook](https://www.kaggle.com/code/mykcs01/run0418-macro-lambda-kl-2/notebook) 
 [wandb-run](https://wandb.ai/team-mykcs/UNet_Compare/runs/tx6cw5nm)
 
-DiceCELossWithKL
+resnet50-Unet-DiceCEKL
+[kaggle-notebook](https://www.kaggle.com/code/yufang18/resnet50-unet-dicecekl?scriptVersionId=172741233) 
+[wandb-run](https://wandb.ai/team-mykcs/UNet_Compare/runs/cf3v4x1l)
 
-Focal
+resnet50-Unet-Focal
 [kaggle-notebook](https://www.kaggle.com/code/mykcs01/focalloss) 
 [wandb-run](https://wandb.ai/team-mykcs/UNet_Compare/runs/v6cewtc2)
 
-smp-Dice
+resnet50-Unet-smp-Dice
 [kaggle-notebook](https://www.kaggle.com/code/gemini2024/resnet50-unet-smp-dice?scriptVersionId=172881878) 
 [wandb-run](https://wandb.ai/team-mykcs/UNet_Compare/runs/514ebpd6)
 
@@ -49,12 +53,17 @@ smp-Dice
 [wandb-run](https://wandb.ai/team-mykcs/UNet_Compare/runs/4q9veicm)
 
 
-12.3 encoder 对比
+## encoder 对比
 baseline: resnet50-Unet-DiceCE
+
 compare: 
+
 mitb2-Unet
+
 mitb5-Unet
+
 mitb2-MAnet
+
 mitb5-MAnet notebook-kaggle
 
 
