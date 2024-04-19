@@ -46,8 +46,6 @@ kaggle-notebook
 
 ### DiceCELoss
 
-DiceCELoss
-
 [kaggle-notebook](https://www.kaggle.com/code/mykcs01/diceceloss/notebook) 
 [wandb-run](https://wandb.ai/team-mykcs/UNet_Compare/runs/3v7gn20j)
 
@@ -81,3 +79,6 @@ x = x.repeat(1,3,1,1)
 [kaggle-notebook](https://www.kaggle.com/code/yufang18/mitb5-manet-diceceloss/notebook)  
 [wandb-run]()
 
+### smp-DiceLoss
+[kaggle-notebook](https://www.kaggle.com/code/gemini2024/smp-diceloss/notebook) 
+[wandb-run](https://wandb.ai/team-mykcs/UNet_Compare/runs/514ebpd6)
