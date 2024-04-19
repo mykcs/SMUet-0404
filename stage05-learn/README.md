@@ -30,12 +30,6 @@ lambda_dice=0.85, lambda_ce=0.15, lambda_kl=2.0，但是看着效果好像不太
 [kaggle-notebook](https://www.kaggle.com/code/yufang18/run0418/notebook) 
 [wandb-run](https://wandb.ai/team-mykcs/UNet_Compare/runs/cf3v4x1l)
 
-### run-old_dataset
-
-使用旧dataset
-
-[kaggle-notebook](https://www.kaggle.com/code/mykcs01/run-old-dataset/notebook) 
-[wandb-run](https://wandb.ai/team-mykcs/UNet_Compare/runs/1wfvee3h?nw=nwusermykcs)
 
 ### MViTUNet
 

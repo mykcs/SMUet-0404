@@ -1,10 +1,48 @@
 # SMUet-0404
 
-## stage05-learn
+## stage05-macro
 
-修改代码，熟悉code
+修改指标为macro
 
 ---
+
+baseline：resnet50-Unet-DiceCE
+
+## 数据集对比
+
+baseline: dataset2
+
+compare:
+
+run-old_dataset 
+[notebook-kaggle-ver1](https://www.kaggle.com/code/mykcs01/diceceloss?scriptVersionId=172743614)
+[wandb-run](https://wandb.ai/team-mykcs/UNet_Compare/runs/1wfvee3h)
+
+## loss 对比
+baseline: resnet50-Unet-DiceCE
+
+compare: 
+
+Dice
+
+DiceCELossWithKL-kl2
+
+DiceCELossWithKL
+
+Focal
+[kaggle-notebook](https://www.kaggle.com/code/mykcs01/focalloss) 
+[wandb-run](https://wandb.ai/team-mykcs/UNet_Compare/runs/v6cewtc2)
+
+smp-Dice
+
+12.3 encoder 对比
+baseline: resnet50-Unet-DiceCE
+compare: 
+mitb2-Unet
+mitb5-Unet
+mitb2-MAnet
+mitb5-MAnet notebook-kaggle
+
 
 ### ver0418-stage04
 
