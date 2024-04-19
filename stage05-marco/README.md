@@ -24,6 +24,8 @@ baseline: resnet50-Unet-DiceCE
 compare: 
 
 Dice
+[kaggle-notebook](https://www.kaggle.com/code/gemini2024/resnet50-unet-monai-dice?scriptVersionId=172892353) 
+[wandb-run](https://wandb.ai/team-mykcs/UNet_Compare/runs/ovnlwkwj)
 
 DiceCELossWithKL-kl2
 
@@ -34,6 +36,8 @@ Focal
 [wandb-run](https://wandb.ai/team-mykcs/UNet_Compare/runs/v6cewtc2)
 
 smp-Dice
+[kaggle-notebook](https://www.kaggle.com/code/gemini2024/resnet50-unet-smp-dice?scriptVersionId=172881878)
+[wandb-run](https://wandb.ai/team-mykcs/UNet_Compare/runs/514ebpd6)
 
 12.3 encoder 对比
 baseline: resnet50-Unet-DiceCE
