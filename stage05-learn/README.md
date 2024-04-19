@@ -69,9 +69,15 @@ x = x.repeat(1,3,1,1)
 [kaggle-notebook](https://www.kaggle.com/code/yufang18/mvitmanet-diceceloss/notebook)
 [wandb-run](https://wandb.ai/team-mykcs/UNet_Compare/runs/1pxr47e2)
 
-### DiceLoss-icl_bk
+#### DiceLoss-icl_bk
 
 参数，include_background=True，实际上默认也是True
 
 [kaggle-notebook](https://www.kaggle.com/code/mykcs01/diceloss-icl-bk/notebook) 
 [wandb-run](https://wandb.ai/team-mykcs/UNet_Compare/runs/4q9veicm)
+
+### mitb5-MAnet-DiceCELoss
+
+[kaggle-notebook](https://www.kaggle.com/code/yufang18/mitb5-manet-diceceloss/notebook)  
+[wandb-run]()
+
