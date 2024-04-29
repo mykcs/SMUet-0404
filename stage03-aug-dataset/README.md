@@ -1,6 +1,6 @@
 # SMUet-0404
 
-## stage03-aug-ddataset
+## stage03-aug-dataset
 
 lgy [kaggle notebook](https://www.kaggle.com/code/liaoguoying/delve-into-aug-a-new-dataset-for-fine-tune)
 

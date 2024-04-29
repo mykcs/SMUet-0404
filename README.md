@@ -1,8 +1,20 @@
 # SMUet-0404
 
-wandb kaggle pytorch_lightning
+2024 0419
 
-seg
+项目：Unet 分割腹部器官
+
+数据集：腹部器官 ct 图，2D，数据增强。
+
+框架：PyTorch Lightning
+
+可视化工具：wandb
+
+任务：
+
+主要评估不同损失函数，model 对最小分割对象的影响。
+
+自己替换了里面的 loss，model，encoder，并测试。
 
 ## stage01-first-try
 
