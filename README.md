@@ -16,9 +16,18 @@
 
 自己替换了里面的 loss，model，encoder，并测试。
 
-## stage01-first-try
+---
 
-熟悉项目
+# 后续问题
+获得了众多指标，但不知道如何进一步改进。
+
+可以去kaggle、flare22 比赛，关注一下他们用了什么方法。
+
+---
+
+详细可以去飞书文稿看看。
+
+## stage01-first-try
 
 ## stage02-sweep
 
